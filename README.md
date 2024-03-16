@@ -18,8 +18,11 @@
 ![Scss](https://img.shields.io/badge/-scss-8e0a17?style=for-the-badge&logo=sass)
 ![Vitify](https://img.shields.io/badge/-vitify-2c553c?style=for-the-badge&logo=v) <br>
 ![GitHub](https://img.shields.io/badge/-github-1c0c13?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
 
 
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Pa_0tel)
+
