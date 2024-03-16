@@ -1,4 +1,5 @@
-[![Header](https://github.com/veellimir/veellimir/blob/main/assets/281486b8-097d-4fdb-a4a5-92fc485f920c.png)]()
+[//]: # ([![Header]&#40;https://github.com/veellimir/veellimir/blob/main/assets/281486b8-097d-4fdb-a4a5-92fc485f920c.png&#41;]&#40;&#41;)
+[![Header](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
 
 ## I'm Python developer 
 
@@ -19,6 +20,8 @@
 ![Vitify](https://img.shields.io/badge/-vitify-2c553c?style=for-the-badge&logo=v) <br>
 ![GitHub](https://img.shields.io/badge/-github-1c0c13?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab) <br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
 
 
