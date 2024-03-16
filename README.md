@@ -1,5 +1,4 @@
-[//]: # ([![Header]&#40;https://github.com/veellimir/veellimir/blob/main/assets/281486b8-097d-4fdb-a4a5-92fc485f920c.png&#41;]&#40;&#41;)
-[![Header](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
+[![Header](https://github.com/veellimir/veellimir/blob/main/assets/281486b8-097d-4fdb-a4a5-92fc485f920c.png)]()
 
 ## I'm Python developer 
 
@@ -23,7 +22,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
-
 
 
 ### Follow Me
