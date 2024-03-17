@@ -1,6 +1,21 @@
 [![Header](https://github.com/veellimir/veellimir/blob/main/assets/photo_2023-09-05_18-26-56.jpg)]()
 
-## I'm Python developer 
+## I'm Python developer
+Я Full-stack разработчик с более чем 2-летним коммерчиским опытом web разработки с использованием
+Python и JavaScript. Я разрабатываю легко маштабируемые и надёжные решения на реальных проектах.
+
+<div style="display: flex; justify-content: center">
+<p align="left">
+&#128084; Работа - это моё хобби <br>
+&#127966;Постигаю что кажется невозможным <br>
+&#127891; Люблю изучать новые технологии <br>
+&#128299; Увлекаюсь в страйкболом  <br>
+&#9762; Играю в страйкбольные игры по мотивам STALKER и METRO <br>
+🪓 Увлекаюсь средневековыми боями &#10052 <br>
+⚔️ Занимаюсь фланкировкой
+</p>
+</div>
+    
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python)
@@ -24,6 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
 
 
-### Follow Me
+### To write
 [![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Pa_0tel)
 
