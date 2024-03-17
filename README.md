@@ -1,4 +1,4 @@
-[![Header](https://github.com/veellimir/veellimir/blob/main/assets/281486b8-097d-4fdb-a4a5-92fc485f920c.png)]()
+[![Header](https://github.com/veellimir/veellimir/blob/main/assets/photo_2023-09-05_18-26-56.jpg)]()
 
 ## I'm Python developer 
 
