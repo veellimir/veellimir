@@ -37,8 +37,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-04457d?style=for-the-badge&logo=windows) <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veellimir&layout=donut)](https://github.com/veellimir/github-readme-stats)
-
 
 ### To write
 [![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Pa_0tel)
