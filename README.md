@@ -1,5 +1,3 @@
-[![Header](https://github.com/veellimir/veellimir/blob/main/assets/photo_2023-09-05_18-26-56.jpg)]()
-
 ## I'm Python developer
 Я Backend разработчик с коммерческим опытом web разработки. Я разрабатываю легко масштабируемые и надёжные решения на реальных проектах.
 <br><br>
