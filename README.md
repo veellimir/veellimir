@@ -1,13 +1,3 @@
-<div style="display: flex; justify-content: center">
-<p align="left">
-&#128084; Работа - это хобби <br>
-&#127891; Люблю изучать новые технологии <br>
-&#128299; Играю в страйкбол <br>
-🪓 Занимаюсь средневековыми боями &#10052 <br>
-⚔️ Хожу на фланкировку
-</p>
-</div>
-    
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python)
