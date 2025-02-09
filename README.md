@@ -16,9 +16,10 @@
 ![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
-![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)<br>
+![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)<br><br>
+
 💾 Базы данных<br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)<br>
 ![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite) <br>
 
 📦 DevOps & Tools<br>
