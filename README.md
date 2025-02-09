@@ -1,12 +1,12 @@
 <h1 align="center">Привет 👋, я Павел</h1>
 <h3 align="center">Backend-разработчик | Python | Django | 1+ год коммерческого опыта</h3>
 
-<p align="center">🔥 Чем занимаюсь?</p>
+<p align="center">🔥 Чем занимаюсь?
 ✔️ Разрабатываю web-приложения, API и CRM-системы<br>
 ✔️ Интегрирую AI сервисы<br>
 ✔️ Работаю с Docker, Celery, Redis и базами данных<br>
 
-
+</p>
 ---
 
 ### 🚀 Проекты
