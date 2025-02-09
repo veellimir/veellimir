@@ -19,7 +19,7 @@
 **Backend:** <br>
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python) 
 ![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/-drf-048280?style=for-the-badge&logo=DRF)
+![DRF](https://img.shields.io/badge/-djangorestframework-048280?style=for-the-badge&logo=DRF)
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
 
