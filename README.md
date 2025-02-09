@@ -19,6 +19,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite)
 ![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/-github-1c0c13?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab) <br>
+![Linux](https://img.shields.io/badge/-linux(ubuntu)-5b1a7e?style=for-the-badge&logo=linux) 
+![Windows](https://img.shields.io/badge/-Windows-04457d?style=for-the-badge&logo=windows) <br>
 
 
 🔥 Буду рад сотрудничеству и новым проектам! 🚀<br>
