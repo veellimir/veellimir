@@ -1,14 +1,14 @@
-🚀 Backend-разработчик | Python | Django 
-Привет! Я Backend-разработчик 1+ годом коммерческого опыта.
-Люблю писать чистый и надёжный код, разрабатывать масштабируемые веб-приложения и автоматизировать процессы.
+🚀 Backend-разработчик | Python | Django <br>
+Привет! Я Backend-разработчик 1+ годом коммерческого опыта.<br>
+Люблю писать чистый и надёжный код, разрабатывать масштабируемые веб-приложения и автоматизировать процессы.<br><br>
 
-🔥 Чем занимаюсь?
-✔️ Разрабатываю web-приложения, API и CRM-системы
-✔️ Интегрирую AI сервисы
-✔️ Работаю с Docker, Celery, Redis и базами данных
+🔥 Чем занимаюсь?<br>
+✔️ Разрабатываю web-приложения, API и CRM-системы<br>
+✔️ Интегрирую AI сервисы<br>
+✔️ Работаю с Docker, Celery, Redis и базами данных<br>
 
-🛠 Технологии и инструменты
-📌 Языки и фреймворки
+🛠 Технологии и инструменты<br>
+📌 Языки и фреймворки<br>
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-javascript-c0c0c0?style=for-the-badge&logo=javascript)
 ![Sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=postgresql)
@@ -18,16 +18,16 @@
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
 ![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)<br>
-
-💾 Базы данных
+<br>
+💾 Базы данных<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite) 
+![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite) <br><br>
 
-📦 DevOps & Tools
-![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)<br>
+📦 DevOps & Tools<br>
+![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)<br><br>
 
 
-📬 Связаться со мной
-🔥 Буду рад сотрудничеству и новым проектам! 🚀
+📬 Связаться со мной<br>
+🔥 Буду рад сотрудничеству и новым проектам! 🚀<br>
 [![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Pa_0tel)
 
