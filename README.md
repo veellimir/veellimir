@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-c0c0c0?style=for-the-badge&logo=javascript)
 ![Sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=postgresql)
 ![Html](https://img.shields.io/badge/-html-008b8b?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c) 
+![Css](https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c) <br>
 ![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
