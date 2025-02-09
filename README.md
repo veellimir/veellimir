@@ -21,7 +21,6 @@
 ![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)
 
 
-📬 Связаться со мной<br>
 🔥 Буду рад сотрудничеству и новым проектам! 🚀<br>
 [![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Pa_0tel)
 
