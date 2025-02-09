@@ -30,7 +30,7 @@
 ![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)
 ![React](https://img.shields.io/badge/-React-085e17?style=for-the-badge&logo=react)
 
-**СУБД:** <br>
+**БД:** <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
 
