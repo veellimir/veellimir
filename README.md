@@ -28,7 +28,7 @@
 
 **БД:** 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
 
 **DevOps:** ![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)
 
