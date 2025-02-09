@@ -11,14 +11,14 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-c0c0c0?style=for-the-badge&logo=javascript)
 ![Sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=postgresql)
 ![Html](https://img.shields.io/badge/-html-008b8b?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c) <br>
+![Css](https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c)
 ![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
-![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)<br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)<br>
-![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite) <br>
-![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)<br>
+![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite)
+![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)
 
 
 📬 Связаться со мной<br>
