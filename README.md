@@ -14,25 +14,26 @@
 ---
 
 ### 🛠 Мой стек:
-**Backend:** 
+**Backend:** <br>
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python) 
 ![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
 
-**Frontend:**
+**Frontend:** <br>
 ![JavaScript](https://img.shields.io/badge/-javascript-c0c0c0?style=for-the-badge&logo=javascript)
 ![Html](https://img.shields.io/badge/-html-008b8b?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c)
 ![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)
 
-**БД:** 
+**БД:** <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
 
-**DevOps:** ![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)
+**DevOps:** <br>
+![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)
 
-**Инструменты:** 
+**Инструменты:** <br>
 ![GitHub](https://img.shields.io/badge/-github-1c0c13?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab) <br>
 ![Linux](https://img.shields.io/badge/-linux(ubuntu)-5b1a7e?style=for-the-badge&logo=linux) 
