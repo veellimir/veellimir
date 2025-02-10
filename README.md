@@ -7,11 +7,12 @@
 ✔️ Интегрирую AI сервисы<br>
 ✔️ Пишу ТГ ботов<br>
 
+---
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
 </p>
 
----
 
 ### 🚀 Проекты
 - 🔭 Работаю над [Django CRM-Добрыня](https://github.com/veellimir/Django_Journal_Dobrynya)
