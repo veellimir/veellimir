@@ -16,48 +16,30 @@
 
 ---
 
-### 🛠 Мой стек:
+<div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 30%; padding: 10px;">
-    <img src="https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django" />
-    <img src="https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi" />
-    <img src="https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask" />
-  </div>
+### 🛠 Технологии:
 
-  <div style="width: 30%; padding: 10px;">
-    <img src="https://img.shields.io/badge/-javascript-c0c0c0?style=for-the-badge&logo=javascript" />
-    <img src="https://img.shields.io/badge/-html-008b8b?style=for-the-badge&logo=html5" />
-    <img src="https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c" />
-    <img src="https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v" />
-    <img src="https://img.shields.io/badge/-React-085e17?style=for-the-badge&logo=react" />
-  </div>
+[![Backend](https://skillicons.dev/icons?i=python,django,fastapi,flask,selenium,postgresql,mysql,sqlite)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap,vuetify,vue,react)](https://skillicons.dev)
+[![Devops](https://skillicons.dev/icons?i=docker,redis)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
+[![OC](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-  <div style="width: 30%; padding: 10px;">
-    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql" />
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql" />
-    <img src="https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker" />
-    <img src="https://img.shields.io/badge/-Redis-042b7d?style=for-the-badge&logo=redis" />
-    <img src="https://img.shields.io/badge/-Celery-042b7d?style=for-the-badge&logo=celery" />
-  </div>
-
-  <div style="width: 30%; padding: 10px;">
-    <img src="https://img.shields.io/badge/-github-1c0c13?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab" />
-    <img src="https://img.shields.io/badge/-linux(ubuntu)-5b1a7e?style=for-the-badge&logo=linux" />
-    <img src="https://img.shields.io/badge/-Windows-04457d?style=for-the-badge&logo=windows" />
-  </div>
 </div>
 
-
-
-
-### 📊 Статистика  
-
+<div align="center">
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
 </p>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=veellimir&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=30&theme=radical" alt="veellimir" />
+  </p>
+</div>
+
 
 ---
 
