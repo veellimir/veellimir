@@ -16,6 +16,12 @@
 
 ---
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
+</p>
+
+---
+
 ### 🛠 Мой стек:
 **Backend:** <br>
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python) 
