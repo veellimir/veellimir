@@ -35,10 +35,9 @@
 </p>
 </div>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=veellimir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=true" alt="veellimir" />
-  </p>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://streak-stats.demolab.com?user=veellimir&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
 </div>
 
 
