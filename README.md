@@ -1,3 +1,4 @@
+[![Header](https://github.com/veellimir/veellimir/blob/main/assets/photo_2023-09-05_18-26-56.jpg)]()
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">Python Backend-разработчик</h3>
 
@@ -19,7 +20,6 @@
 **Backend:** <br>
 ![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python) 
 ![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/-drf-048280?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-flask-046f87?style=for-the-badge&logo=flask) 
 
@@ -30,7 +30,7 @@
 ![Vue](https://img.shields.io/badge/-vue-085e17?style=for-the-badge&logo=v)
 ![React](https://img.shields.io/badge/-React-085e17?style=for-the-badge&logo=react)
 
-**БД:** <br>
+**СУБД:** <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
 
