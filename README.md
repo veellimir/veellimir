@@ -53,14 +53,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=veellimir&show_icons=true&locale=en" alt="veellimir" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veellimir&" alt="veellimir" />
-</p>
-
 ---
 
 ### 📬 Связаться со мной:
