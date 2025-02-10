@@ -9,15 +9,10 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
-</p>
-
-
 ### 🚀 Проекты
-- 🔭 Работаю над [Django CRM-Добрыня](https://github.com/veellimir/Django_Journal_Dobrynya)
-- 🔭 Работаю над [DRF Трекер-Задач](https://github.com/veellimir/Djangorest-Mobile_Backend)
-- 🔭 Работаю над [DRF Финансовый контроль](https://github.com/veellimir/My_money_smart)
+#### 🔭 ____Работаю над [Django CRM-Добрыня](https://github.com/veellimir/Django_Journal_Dobrynya)
+#### 🔭 ____Работаю над [DRF Трекер-Задач](https://github.com/veellimir/Djangorest-Mobile_Backend)
+#### 🔭 ____Работаю над [DRF Финансовый контроль](https://github.com/veellimir/My_money_smart)
 
 ---
 
@@ -54,11 +49,13 @@
 ---
 
 ### 📊 Статистика  
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
 </p>
 
 ---
+
 
 ### 📬 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Pa_0tel)
