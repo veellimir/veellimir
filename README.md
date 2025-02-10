@@ -24,7 +24,7 @@
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap,vuetify,vue,react)](https://skillicons.dev)
 [![Devops](https://skillicons.dev/icons?i=docker,redis)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
-[![OC](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![OС](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=veellimir&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=30&theme=radical" alt="veellimir" />
+    <img src="https://github-readme-stats.vercel.app/api?username=veellimir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=true" alt="veellimir" />
   </p>
 </div>
 
