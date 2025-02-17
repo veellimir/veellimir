@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 Проекты
-#### 🔭 ____Работаю над [Django CRM-Добрыня](https://github.com/veellimir/Django_Journal_Dobrynya)
-#### 🔭 ____Работаю над [DRF Трекер-Задач](https://github.com/veellimir/Djangorest-Mobile_Backend)
-#### 🔭 ____Работаю над [DRF Финансовый контроль](https://github.com/veellimir/My_money_smart)
+#### 🔭 Работаю над [Django CRM-Добрыня](https://github.com/veellimir/Django_Journal_Dobrynya)
+#### 🔭 Работаю над [DRF Трекер-Задач](https://github.com/veellimir/Djangorest-Mobile_Backend)
+#### 🔭 Работаю над [DRF Финансовый контроль](https://github.com/veellimir/My_money_smart)
 
 ---
 
