@@ -11,6 +11,7 @@
 ---
 
 ### 🚀 Проекты
+#### 🔭 Работаю над [FastAPI-CRM](https://github.com/veellimir/FastAPI_CRM-System)
 #### 🔭 Работаю над [Django CRM-Добрыня](https://github.com/veellimir/Django_Journal_Dobrynya)
 #### 🔭 Работаю над [DRF Трекер-Задач](https://github.com/veellimir/Djangorest-Mobile_Backend)
 #### 🔭 Работаю над [DRF Финансовый контроль](https://github.com/veellimir/My_money_smart)
