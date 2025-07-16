@@ -1,4 +1,3 @@
-[![Header](https://github.com/veellimir/veellimir/blob/main/assets/photo_2023-09-05_18-26-56.jpg)]()
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">Python Backend-разработчик</h3>
 
