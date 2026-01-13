@@ -10,11 +10,6 @@
 
 </div>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=veellimir&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veellimir&show_icons=true&locale=en&layout=compact" alt="veellimir" />
-</div>
-
 
 ---
 
